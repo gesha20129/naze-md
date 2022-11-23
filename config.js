@@ -22,8 +22,8 @@ global.APIKeys = {
 global.owner = ['6285891318105']
 global.ownernomer = "6285891318105"
 global.premium = ['6285891318105']
-global.packname = 'Sticker By'
-global.author = 'Wiliam Botz'
+global.packname = '𝐆𝐄𝐒𝐇𝐀 𝐑𝐅𝐃'
+global.author = 'Yuriku BOT'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -65,8 +65,8 @@ global.myytv = '-'
 global.mygc = "-"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'WILIAM BOTZ'
-global.akulaku = 'Wiliam Botz'
+global.botname = 'Yuriku BOTZ'
+global.akulaku = 'Yuriku Botz'
 global.ytname = 'YT Kizaru' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
